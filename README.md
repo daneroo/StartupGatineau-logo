@@ -1,14 +1,19 @@
 # Startup Gatineau
 
-Logo
+# Logo
 
+* Entrepreneuriat
+* Rencontre
+* Technologie
 
-Entrepreneuriat
-Rencontre
-Technologie
+## Handwriting Fonts: 
 
-##Font: 
-Lucida-Handwriting
-Handwriting - Dakota
-Casual
-Chalkduster
+Inkscape:
+
+* Lucida-Handwriting
+* Droid Serif Bold
+
+Google WebFonts:
+
+* Indie Flower
+* Satisfy
