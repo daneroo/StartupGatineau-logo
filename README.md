@@ -21,3 +21,8 @@ Google WebFonts:
 
 * Indie Flower
 * Satisfy
+
+## References
+
+* [Coat of arms](http://commons.wikimedia.org/wiki/Category:SVG_coats_of_arms)
+* [Coat of arms elements](http://commons.wikimedia.org/wiki/Category:SVG_coat_of_arms_elements)
