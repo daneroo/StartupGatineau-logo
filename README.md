@@ -26,3 +26,4 @@ Google WebFonts:
 
 * [Coat of arms](http://commons.wikimedia.org/wiki/Category:SVG_coats_of_arms)
 * [Coat of arms elements](http://commons.wikimedia.org/wiki/Category:SVG_coat_of_arms_elements)
+* [Soat of arms simplified](http://commons.wikimedia.org/wiki/Category:SVG_simplified_Coats_of_Arms)
