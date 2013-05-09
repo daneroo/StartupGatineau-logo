@@ -2,11 +2,11 @@
 
 ## Logo
 
-<img src="https://raw.github.com/daneroo/StartupGatineau-logo/master/blason2.png"  width="256" alt="Startup Gatineau" style="margin:50px; align:left">
-<img src="https://raw.github.com/daneroo/StartupGatineau-logo/master/blason1.png"  width="256" alt="Startup Gatineau" style="margin:50px; align:right">
+<img src="https://raw.github.com/daneroo/StartupGatineau-logo/master/blason2.png"  width="256" alt="Startup Gatineau" style="margin:20px; padding:20px; align:left">
+<img src="https://raw.github.com/daneroo/StartupGatineau-logo/master/blason1.png"  width="256" alt="Startup Gatineau" style="margin:20px; padding:20px; align:right">
 <br>
-<img src="https://raw.github.com/daneroo/StartupGatineau-logo/master/ebauche2.png"  width="256" alt="Startup Gatineau" style="margin:50px; align:left">
-<img src="https://raw.github.com/daneroo/StartupGatineau-logo/master/ebauche1.png"  width="256" alt="Startup Gatineau" style="margin:50px; align:right">
+<img src="https://raw.github.com/daneroo/StartupGatineau-logo/master/ebauche2.png"  width="256" alt="Startup Gatineau" style="margin:20px; padding:20px; align:left">
+<img src="https://raw.github.com/daneroo/StartupGatineau-logo/master/ebauche1.png"  width="256" alt="Startup Gatineau" style="margin:20px; padding:20px; align:right">
 <br>
 
 * Entrepreneuriat
