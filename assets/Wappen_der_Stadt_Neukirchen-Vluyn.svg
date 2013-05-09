@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="539" width="466" xmlns:xlink="http://www.w3.org/1999/xlink">
+<clipPath id="c"><use xlink:href="#a"/></clipPath>
+<g clip-path="url(#c)">
+<path id="a" d="m5 20v285a228 228 0 0 0 456 0v-285z"/>
+<use y="-180" x="-252.3" xlink:href="#b"/>
+<use y="-90" x="-126" xlink:href="#b"/>
+<g id="b">
+<use y="-45" x="-63" xlink:href="#o" fill="#fcdd09"/>
+<path id="o" d="m287 677-98-70c18-25 65-23 83-48 18-26-1-67 17-92s63-22 82-47c18-26-1-67 18-93 18-25 62-20 81-46 18-26 0-68 18-94 19-25 63-20 81-45s1-68.4 19-94.5l98 69.5"/>
+</g>
+<use stroke-width="14" stroke="#fff" xlink:href="#a" fill="none"/>
+</g>
+<use stroke-linejoin="bevel" xlink:href="#a" stroke="#000" stroke-width="9" fill="none"/>
+<path d="m4 20 18-17h422l18 17" stroke="#000" stroke-width="5"/>
+<path d="m455 19-5-4h-434l-5 4" fill="#fff"/>
+</svg>
